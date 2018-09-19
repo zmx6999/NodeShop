@@ -17,6 +17,7 @@
     "express-async-error": "0.0.2",
     "lxj-crypto": "0.0.1",
     "mongoose": "^5.2.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "redis": "^2.8.0"
   }
 }
